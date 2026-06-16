@@ -1,6 +1,8 @@
 # Power BI Sales Analytics & KPI Reporting Dashboard
 
-## Project Overview
+![Dashboard Overview](dashboard-overview.png)
+
+## 📊 Project Overview
 
 This project was developed to analyze pizza sales performance and transform raw transactional data into actionable business insights using Power BI.
 
@@ -8,7 +10,7 @@ The dashboard provides visibility into revenue trends, customer ordering behavio
 
 ---
 
-## Business Problem
+## 🎯 Business Problem
 
 Organizations often collect large volumes of transactional data but struggle to convert that information into meaningful insights.
 
@@ -22,19 +24,20 @@ This project addresses that challenge by:
 
 ---
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
-* Power BI
-* Power Query
-* Excel
-* DAX (Data Analysis Expressions)
-* Data Modeling
-* Data Validation
-* Data Visualization
+| Tool | Purpose |
+|------|---------|
+| Power BI | Dashboard Development |
+| Power Query | Data Transformation |
+| DAX | KPI Calculations |
+| Excel | Data Source |
+| Data Modeling | Relationship Management |
 
 ---
 
-## Dashboard Features
+##  📈 Dashboard Features
+
 
 ### Executive Overview
 
@@ -72,7 +75,19 @@ Users can:
 
 ---
 
-## Key Findings
+## 💼 Business Impact
+
+This dashboard enables stakeholders to:
+
+- Monitor revenue and sales performance in real time
+- Identify top-performing products and categories
+- Understand customer ordering behavior
+- Support staffing and operational planning during peak periods
+- Make data-driven business decisions using interactive reporting
+
+---
+
+## 🔍 Key Findings
 
 ### 1. Classic and Supreme Categories Drive Revenue
 
@@ -98,7 +113,7 @@ These products represent key revenue drivers and may provide opportunities for p
 
 ---
 
-## Data Preparation Process
+## 🧹 Data Preparation Process
 
 To ensure reliable reporting, the following steps were performed:
 
@@ -111,7 +126,7 @@ To ensure reliable reporting, the following steps were performed:
 
 ---
 
-## Future Enhancements
+## 🚀 Future Enhancements
 
 Potential improvements include:
 
@@ -123,7 +138,16 @@ Potential improvements include:
 
 ---
 
-## What I Learned
+## 📂 Repository Contents
+
+- `Pizza_Sales_Analytics_Dashboard.pbix` – Power BI dashboard file
+- `dashboard-overview.png` – Dashboard screenshot
+- `Business_Insights_and_Dashboard_Enhancement_Plan.pdf` – Findings and future enhancement recommendations
+- `README.md` – Project documentation
+
+---
+
+## 📚 What I Learned
 
 This project strengthened my experience in:
 
@@ -137,10 +161,11 @@ The project reinforced the importance of combining technical analysis with busin
 
 ---
 
-## Author
+## 👨‍💻 Author
 
-Afolabi Fagbenro
+**Afolabi Fagbenro**
 
 Business Analytics | Data Reporting | Power BI | SQL | Data Visualization
 
-LinkedIn: linkedin.com/in/afolabifagbenro
+LinkedIn: www.linkedin.com/in/afolabifagbenro
+GitHub: github.com/afobs10
